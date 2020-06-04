@@ -1,0 +1,18 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mysql": {
+    "client": "mysql2",
+    "connection": "mysql://root:moriarthy@87.248.52.100:3306/sav2015"
+  },
+  "sites": [
+    "https://moodgiver.test",
+    "https://savenergy.moodgiver.com",
+    "https://savenergy.it"
+  ]
+}
