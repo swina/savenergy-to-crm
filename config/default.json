@@ -8,7 +8,7 @@
   },
   "mysql": {
     "client": "mysql2",
-    "connection": "mysql://root:moriarthy@87.248.52.100:3306/sav2015"
+    "connection": ""
   },
   "sites": [
     "https://moodgiver.test",
